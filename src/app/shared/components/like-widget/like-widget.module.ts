@@ -13,4 +13,4 @@ import { LikeWidgetComponent } from "./like-widget.component";
     exports: [LikeWidgetComponent],
     providers: [UniqueIdService]
 })
-export class LikeWidget{}
+export class LikeWidgetModule{}
